@@ -1,27 +1,35 @@
 # 🚀 Minha Jornada Full Stack
 
-Este repositório documenta minha evolução no curso Full Stack da Rocketseat.
+Este repositório documenta minha evolução no curso Full Stack da Rocketseat, com foco em desenvolvimento web e construção de projetos práticos.
 
 ## 📚 Sobre o curso
 
-A formação aborda desenvolvimento web completo, desde fundamentos até aplicações full stack, incluindo:
+Formação em desenvolvimento web full stack, abordando desde fundamentos até aplicações completas, com foco em:
 
-- HTML, CSS e JavaScript
 - Git e GitHub
+- HTML, CSS e JavaScript
 - React (Front-end)
 - Node.js (Back-end)
 - APIs REST
 
-## 🛠️ Tecnologias aprendidas
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- Git & GitHub
+## 🎯 Objetivo
 
+Me tornar uma desenvolvedora Full Stack e conquistar minha primeira oportunidade na área.
+
+## 📊 Detalhes da formação
+
+⏱️ Carga horária: ~183 horas  
+🎥 Aulas: 1145 aulas (91h 51min de conteúdo em vídeo)  
+🧠 Nível: Iniciante  
+🧩 Atividades: 10 desafios e 59 testes  
+
+
+## 📂 Projetos
+
+- **Local Turístico**  
+  Projeto com HTML e CSS focado em estrutura semântica, estilização e layout.  
+  👉 [Acessar projeto](./Local%20Turístico)
 
 ## 📈 Progresso
 
@@ -31,26 +39,6 @@ A formação aborda desenvolvimento web completo, desde fundamentos até aplica�
 - [ ] JavaScript  
 - [ ] React  
 - [ ] Node.js  
-
-## 🎯 Objetivo
-
-Me tornar uma desenvolvedora Full Stack e conquistar minha primeira oportunidade na área.
-
-## 📊 Detalhes da formação
-
-- ⏱️ Carga horária: ~183 horas  
-- 🎥 Aulas: 1145 aulas (91h 51min de conteúdo em vídeo)  
-- 🧠 Nível: Iniciante  
-- 🧩 Atividades: 10 desafios e 59 testes  
-
-
-## 📂 Projetos
-
-### 🔹 Local Turístico
-Projeto desenvolvido durante o curso com foco em HTML e CSS.
-
-👉 [Acessar projeto](./Local%20Turístico)
-
 
 ## 📌 Observações
 
