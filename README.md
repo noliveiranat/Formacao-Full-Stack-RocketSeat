@@ -43,6 +43,15 @@ Me tornar uma desenvolvedora Full Stack e conquistar minha primeira oportunidade
 - 🧠 Nível: Iniciante  
 - 🧩 Atividades: 10 desafios e 59 testes  
 
+
+## 📂 Projetos
+
+### 🔹 Local Turístico
+Projeto desenvolvido durante o curso com foco em HTML e CSS.
+
+👉 [Acessar projeto](./Local%20Turístico)
+
+
 ## 📌 Observações
 
 Este repositório será atualizado conforme avanço no curso.
